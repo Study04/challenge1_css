@@ -1,0 +1,41 @@
+h1 {
+  /* 1.1 Change the font to Arial */
+  font-style: Arial;
+
+  /* 2.1 Set the color of a text to #ff8a00 */
+  color: #ff8a00;
+
+  /* 3.1 Set the size of a font 36px */
+  font-size: 36px;
+
+  /* 4.1 Add margin and padding of 20px to all sides */
+  margin: 20px;
+  padding: 20px;
+
+  text-align: center;
+}
+
+p {
+  /* 1.2 Change the font to sans-serif */
+  font-style: sans-serif;
+
+  /* 2.2 Set the color of a text to white  */
+  color: white;
+
+  /* 3.2 Set the size of a font 16px  */
+  font-size: 16px;
+
+  /* 4.2 Add padding and margin of 10px to all sides */
+  padding: 10px;
+  margin: 10px;
+
+  text-align: left;
+}
+
+body {
+  /* Set the background color to #524c4c*/
+  background-color: #524c4c;
+}
+
+
+/*# sourceMappingURL=/styles.8986bff4.css.map */
